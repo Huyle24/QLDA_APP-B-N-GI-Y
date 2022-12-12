@@ -1,0 +1,1221 @@
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\bin\Debug\QLCH_UI.exe
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\bin\Debug\QLCH_UI.pdb
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.exe
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\phamt\Downloads\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+D:\HK3\LTTQ\DoAn\QLCH_UI\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI2.dll
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+D:\HK3\LTTQ\DoAn\GitHub\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI2.dll
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\TestDoAn\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI2.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.StaffsForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\RdlCompile.cache
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\RdlCompile.compiled
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.StaffsForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportManagementForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.WareHouseManagentForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+D:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI.dll
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportManagementForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.WareHouseManagentForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI2.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ViewProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportManagementForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.StaffsForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.WareHouseManagentForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemViewProduct.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+C:\Users\phamt\Desktop\19.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportManagementForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.StaffsForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.WareHouseManagentForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\RdlCompile.cache
+D:\lttq\QuanLiCuaHangDT\QLCH_UI\obj\Debug\RdlCompile.compiled
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI2.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportManagementForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.StaffsForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.WareHouseManagentForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\20.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Guna.UI2.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csprojAssemblyReference.cache
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CustomersForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.OrdersForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ProductsForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportManagementForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.StaffsForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.WareHouseManagentForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\phamt\Desktop\21.12\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+E:\QuanLiCuaHangDT\QLCH_UI\bin\Debug\PdfSharp.dll
+C:\Users\phamt\Desktop\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fChangePassword.resources
+E:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fChangePassword.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fChangePassword.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+D:\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fChangePassword.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+C:\Users\Admin\Downloads\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe.config
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.exe
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\QLCH_UI.pdb
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\EnvDTE.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\stdole.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.pdb
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.xml
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.pdb
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.WinForms.xml
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.pdb
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\LiveCharts.Wpf.xml
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.AssemblyReference.cache
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.SuggestedBindingRedirects.cache
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fChangePassword.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fImportManage.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fManageWH.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fOrder.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fProduct.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fStaff.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewSale.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fReviewTech.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fViewCustomer.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditImportProduct.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.CTHDForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fAddRepair.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fEditRepair.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fInfoRepair.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fRepair.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fSelectEdit.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.fUpdateInfo.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainTechnicianForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_UI_DS_Item.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemRepair.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.GUI.Sell.Printhd.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.SellForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_Item.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddStaff.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditStaff.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddCustomer.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditCustomer.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoCustomer.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.EditProduct.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.LoginForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.AddProduct.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.InfoProduct.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ImportProducts.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.lb_gioitinh.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.MainSaleForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.Properties.Resources.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\LoginUI.RegisterForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.ReportForm.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemCustomer.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemOrder.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemProduct.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemStaff.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_itemManageWH.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.UC_ItemImport.resources
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.GenerateResource.cache
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CoreCompileInputs.cache
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.csproj.CopyComplete
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.exe
+D:\Đồ án Cửa hàng máy vi tính WINFORM\sourcecode\QuanLiCuaHangDT\QLCH_UI\obj\Debug\QLCH_UI.pdb
