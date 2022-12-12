@@ -20,8 +20,9 @@ dùng quản lý được số lượng sản phẩm từng mặt hàng, xuất 
 ##### Của số thông tin hóa đơn
 ![alt](https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.15752-9/120400572_270411137363002_2976684390329163972_n.png?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=Rk8JXvqDXIgAX_cef-T&_nc_ht=scontent.fsgn5-5.fna&oh=ed0cf131064cf8a99d3e57d325b82f6a&oe=5F9709D4)
 ### Nhóm tác giả:
-* Bùi Minh Huy
-* Phạm Tấn Khang
-* Nguyễn Vĩnh Hoàng Phúc
+* Lê Quang Huy
+* Nguyễn Trương Đình Du
+* Nguyễn Anh Khoa
+* Phạm Minh Nhật
 ### Liên hệ:
-📧 buiminhhuyqnam@gmail.com
+📧 20521396@gm.uit.edu.vn
