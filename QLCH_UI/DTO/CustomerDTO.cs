@@ -6,7 +6,7 @@ namespace QLCH_UI.DTO
 {
     public class CustomersDTO
     {
-        public CustomersDTO(string makh, string ten_kh,DateTime ngay_sinh, string dia_chi, string dien_thoai, string gioi_tinh)
+        public CustomersDTO(string makh, string ten_kh, DateTime ngay_sinh, string dia_chi, string dien_thoai, string gioi_tinh)
         {
             this.Makh = makh;
             this.Ten_kh = ten_kh;
