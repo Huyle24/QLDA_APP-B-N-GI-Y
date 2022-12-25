@@ -98,6 +98,12 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\Account.cs" />
+    <Compile Include="DAO\BanhangDAO.cs" />
+    <Compile Include="DAO\BaocaoDAO.cs" />
+    <Compile Include="DAO\ConnectSQL.cs" />
+    <Compile Include="DAO\StaffDAO.cs" />
+    <Compile Include="DAO\TongquanSC_DAO.cs" />
     <Compile Include="GUI\fChangePassword.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -524,7 +530,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BUS\" />
-    <Folder Include="DAO\" />
     <Folder Include="DTO\" />
   </ItemGroup>
   <ItemGroup>
